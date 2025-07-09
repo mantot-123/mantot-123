@@ -8,4 +8,4 @@ I keep this profile for people who want to check out my personal projects and to
 
 ## How to reach out
 * [LinkedIn](https://www.linkedin.com/in/emman-ruiz-medina-09a786320/)
-* [Email me ✉](medinaemmanruiz@gmail.com) 
+* [Email me](medinaemmanruiz@gmail.com) ✉
