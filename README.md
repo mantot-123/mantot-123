@@ -1,4 +1,4 @@
-# Hello world, I'm Emman! 👋🌍
+# 👋🌍 Hello world, I'm Emman!
 
 Hi and welcome to my GitHub! I am currently a student, looking to pursue a career in Software Engineering.<br>
 I keep this profile for people who want to check out my personal projects and to show my skills and knowledge in several areas.
