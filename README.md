@@ -5,9 +5,6 @@ I keep this profile for people who want to check out my personal projects and to
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,supabase,flutter,dart,python,java,react,next,nodejs,js,ts,html,css,php,godot)](https://skillicons.dev)
 
-<span>![mantot-123's Stats](https://github-readme-stats.vercel.app/api?username=mantot-123&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)</span>
-<span>![mantot-123's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mantot-123&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)</span>
-
 ## How to reach out ✉
 * [LinkedIn](https://www.linkedin.com/in/emman-ruiz-medina-09a786320/)
 * [Email me](medinaemmanruiz@gmail.com)
