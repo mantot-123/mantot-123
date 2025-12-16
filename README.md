@@ -1,6 +1,6 @@
 # 👋🌍 Hello world, I'm Emman!
 
-Hi and welcome to my GitHub! I am currently a student, looking to pursue a career in Software Engineering.<br>
+Hi and welcome to my GitHub! I am currently a student, looking to pursue a career in software engineering and UI/UX design.<br>
 I keep this profile for people who want to check out my personal projects and to show my skills and knowledge in several areas.
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,supabase,mysql,postgresql,flutter,dart,python,java,react,next,nodejs,js,ts,html,css,php,godot)](https://skillicons.dev)
