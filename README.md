@@ -1,7 +1,6 @@
 # 👋🌍 Hello world, I'm Emman!
 
-Hi and welcome to my GitHub! I am a student, looking to pursue a career in IT, embedded and software engineering.<br>
-Feel free to check out my projects I've worked on previously.
+Just a guy who lives and breathes tech and software. I (try to) make cool projects, if you need any help or want to work with me on a project, you can reach out to me here, or LinkedIn or by e-mail.
 
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,python,java,flask,react,bootstrap,tailwind,figma,next,nodejs,js,ts,html,css,c,arduino,firebase,supabase,mysql,sqlite,postgresql,flutter,dart,php,godot)](https://skillicons.dev)
 
