@@ -3,7 +3,7 @@
 Hi and welcome to my GitHub! I am a student, looking to pursue a career in IT, embedded and software engineering.<br>
 Feel free to check out my projects I've worked on previously.
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,python,java,flask,c,arduino,firebase,supabase,mysql,postgresql,flutter,dart,react,bootstrap,tailwind,next,nodejs,js,ts,html,css,php,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,python,java,flask,react,bootstrap,tailwind,next,nodejs,js,ts,html,css,c,arduino,firebase,supabase,mysql,sqlite,postgresql,flutter,dart,php,godot)](https://skillicons.dev)
 
 ## How to reach out ✉
 * [LinkedIn](https://www.linkedin.com/in/emman-ruiz-medina-09a786320/)
