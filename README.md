@@ -4,6 +4,7 @@ Just a guy who lives and breathes tech. I (try to) make cool projects. If you ne
 
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,python,java,flask,react,bootstrap,tailwind,figma,next,nodejs,js,ts,html,css,c,arduino,firebase,supabase,mysql,sqlite,postgresql,flutter,dart,php,godot)](https://skillicons.dev)
 
-## How to reach out ✉
+## Socials ✉
 * [LinkedIn](https://www.linkedin.com/in/emman-ruiz-medina-09a786320/)
+* [Leetcode](https://leetcode.com/u/emman123/) - I've started solving new problems here daily
 * [Email me](medinaemmanruiz@gmail.com)
