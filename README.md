@@ -7,6 +7,7 @@ Just a guy who lives and breathes tech. I (try to) make cool projects. If you ne
 ## Current projects
 Some projects I have built, and some I am currently building at the moment.
 **Name** | **Description** | **Progress**
+|---|---|---|
 OdioTag | An audio file tagging app with an intuitive web interface | WIP
 Fitdex | A mobile fitness tracker application | WIP
 Climmute | Weather application with real time travel tracking | Complete
